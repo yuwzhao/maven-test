@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("hello, git-master-test");
         System.out.println("hello, git4");
         System.out.println("hello, git-push-test");
+        System.out.println("hello, git-pull-test");
     }
 }
